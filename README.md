@@ -18,6 +18,30 @@ I specialize in creating robust, maintainable user interfaces connected to real-
 
 ---
 
+## 🛠 Backend & API Stack
+
+- Node.js
+- NestJS
+- RESTful API design
+- MySQL
+- Firebase
+- Authentication & role-based access
+- Payment integrations (MercadoPago, Stripe)
+- Shipping API integrations (Coordinadora)
+
+---
+
+## ☁ Infrastructure & DevOps Awareness
+
+- AWS EC2 (Ubuntu)
+- PM2
+- GitHub Actions
+- Codemagic
+- CI/CD pipelines
+- Environment-based configuration (dev / staging / production)
+
+---
+
 ## 🧠 Selected Projects
 
 ## 🎟 Fanatik — Event & Artist Platform
@@ -31,7 +55,7 @@ Frontend development for an event ticketing, merch and livestream ecosystem.
 - Integrated Coordinadora Shipping API (logistics flow in checkout)
 - Connected OAuth-based livestream logic
 - Implemented role-based UI logic (artists, admins, users)
-- Worked closely with backend (NestJS) APIs
+- Collaborated closely with NestJS backend APIs
 
 **Frontend Focus**
 - Checkout flow optimization
@@ -85,6 +109,7 @@ Flutter-based mobile app deployed to iOS & Android.
 - Complex form and checkout flows
 - API-driven UI
 - Mobile + Web cross-environment experience
+- Backend-aware frontend development
 - Deployment awareness (AWS, CI/CD)
 
 ---
